@@ -2,7 +2,7 @@
 
 A **template operating system** for preparing for senior/executive interviews with AI — candid mock interviews, interviewer research, story-to-competency mapping, and a per-loop prep one-pager.
 
-Built for ambitious candidates (PM, GM, and other leadership roles) who want a repeatable prep process instead of cramming the night before.
+Built for ambitious candidates (PM, GM, and other leadership roles) who want a repeatable prep process instead of cramming the night before. It calibrates to your **target level** — Senior PM (IC), Staff/Principal PM (IC), or Director/VP/GM — so the bar matches the role you're actually interviewing for.
 
 ---
 
@@ -13,7 +13,7 @@ Built for ambitious candidates (PM, GM, and other leadership roles) who want a r
 | **Sub-agents** | Interviewer personas — **hiring manager**, **executive recruiter**, **VP of Engineering**, **VP of Design**, and a **case interviewer** (live product cases) — so you can rehearse a full loop |
 | **Prep skill** | A `/prep-interview` orchestrator that runs the workflow: research, mock interview, story mapping, and prep doc |
 | **Config** | Your candidate profile, target roles, and a reusable story bank the AI draws from |
-| **Reference framework** | Competency rubric, STAR method, mock-interview format, product-case frameworks, and metrics-fluency cheat sheet |
+| **Reference framework** | Competency rubric, level calibration (Senior IC → exec), STAR method, mock-interview format, product-case frameworks, and metrics-fluency cheat sheet |
 | **Company research** | A deep-dive template (business model, competitor comparison, key metrics) that drives toward a strategic POV on the gap the role would own |
 | **Outputs** | One folder per interview loop: interviewer research + a prep one-pager |
 | **Example** | A fully worked sample for a fictional candidate so you can see the end state |
@@ -87,7 +87,7 @@ flowchart LR
 | File | Customize? |
 |------|------------|
 | `config/candidate-profile.md` | **Yes** — your background, scope, strengths, and watch-outs |
-| `config/target-roles.md` | **Yes** — the roles/companies you're targeting and why |
+| `config/target-roles.md` | **Yes** — the roles/companies you're targeting and why, plus your **target level** (Senior PM IC / Staff-Principal IC / exec), which the personas calibrate the bar to |
 | `config/story-bank.md` | **Yes** — your 6–8 anchor stories in STAR form |
 | `Knowledge/Reference/*.md` | Rarely — the frameworks; fork if you want a different rubric |
 | `skill/*/SKILL.md` | Optionally — tune the personas' style and toughness |

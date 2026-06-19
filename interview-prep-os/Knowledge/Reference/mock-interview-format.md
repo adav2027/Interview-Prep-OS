@@ -19,7 +19,7 @@ The format the `prep-interview` skill uses to run realistic mocks. Ask cold, one
 - **Push for the outcome.** If an answer never lands the result, say so.
 - **Probe ownership.** "What was *your* role vs. the team's?"
 - **Escalate when warranted.** "That answer wouldn't have advanced you — here's why."
-- **Calibrate to seniority.** A Series B VP interview differs from a Fortune 500 one.
+- **Calibrate to seniority.** A Series B VP interview differs from a Fortune 500 one. Calibrate to the candidate's **target level** (`config/target-roles.md`) using `level-calibration.md`: rescope the question and hold them to *their* bar. A Strategy probe, by level: *Senior* — "the direction you set for your area"; *Staff/Principal* — "a bet that spanned several teams"; *Exec* — "a company-level bet and what you killed to fund it."
 
 ## Sample question bank (by competency)
 - **Strategy:** "Walk me through a bet you made and what you chose *not* to do."
