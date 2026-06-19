@@ -2,6 +2,8 @@
 
 The competencies senior/executive product interviews screen for, what a strong signal looks like, and the questions that probe each. Map your story bank against these so every competency has at least one strong story.
 
+> The "strong" column below describes a senior/exec signal. The **bar for each competency shifts with the level of the role** — see `level-calibration.md` for how each one reads at Senior PM (IC), Staff/Principal PM (IC), and exec levels.
+
 | Competency | What "strong" looks like | Typical probes |
 |---|---|---|
 | **Strategy** | Sets direction under ambiguity; frames decisions as explicit trade-offs; ties choices to business outcomes | "How did you decide what *not* to do?" "What was the bet and why?" |

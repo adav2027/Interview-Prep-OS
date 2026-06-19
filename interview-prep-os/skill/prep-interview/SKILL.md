@@ -20,7 +20,7 @@ Adopt the persona that matches the interviewer being rehearsed; use **executive-
 ## Step 0 — Load context (always do this first)
 
 1. Read `config/candidate-profile.md` — the candidate's background, scope, strengths, and watch-outs.
-2. Read `config/target-roles.md` — the role/company in play; calibrate toughness and focus to it.
+2. Read `config/target-roles.md` — the role/company in play, and the **target level**; calibrate toughness, focus, and the competency bar to it using `Knowledge/Reference/level-calibration.md` (Senior PM IC vs Staff/Principal IC vs exec).
 3. Read `config/story-bank.md` — their anchor stories. Draw only from these; never invent accomplishments.
 4. If those files still hold the fictional demo data (Jordan Rivera), pause and offer to populate them with the user's real background first.
 

@@ -4,6 +4,7 @@
 
 ## Role archetype
 - **Title:** VP Product / Head of Product
+- **Target level:** Director / VP / GM *(exec)* — one of **Senior PM (IC)**, **Staff / Principal PM (IC)**, or **Director / VP / GM (exec)**. The AI calibrates mock-interview toughness and the competency bar to this; see `Knowledge/Reference/level-calibration.md`.
 - **Company stage:** Series B–D B2B SaaS, $30M–$200M ARR
 - **Scope I want:** Own a product line P&L, set strategy, build/lead a multi-pod org, partner closely with eng and GTM
 
